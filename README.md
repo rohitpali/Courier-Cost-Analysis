@@ -1,1 +1,2 @@
 # Courier-Cost-Analysis
+A data-driven project aimed at optimizing delivery expenses for an e-commerce company. Using Python and MS Excel, cost analysis was performed across five courier services, leading to a 15% reduction in delivery charges. Python scripts were developed for data analysis and streamlining the cost-comparison process with improved accuracy. Comprehensive reports with actionable recommendations were prepared, empowering management to implement effective cost-reduction strategies.
